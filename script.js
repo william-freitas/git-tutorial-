@@ -1,3 +1,3 @@
 function test(){
-    console.console.log("hello  world");
+    console.console.log("this is not a test function");
 }
